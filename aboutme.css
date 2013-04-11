@@ -1,0 +1,54 @@
+*{
+    background-color: black;
+}
+.about{
+    color: yellow;
+}
+#about{
+    color: red;
+    position: realative;
+    background-color: #bcd2ee;
+    border-radius: 10px;
+    border: 2px solid #6495ed;
+    height: 50px;
+    width: 120px;
+    margin auto;
+    text-align: center;
+}
+#about p{
+    backgroung-color: #bcd2ee;
+    margin-top: 12px;
+}
+.experience{
+    color:blue;
+}
+#experience{
+    color: purple;
+    border-radus: 10px;
+    border: 2px solid #6495ed;
+    background-color: #bcd2ee;
+    height: 90px;
+    width: 120px;
+    margin: auto;
+    text-align: center;
+}
+#experience p{
+    background-color: #bcd2ee;
+}
+.family{
+    color: orange;
+}
+#family{
+    color: green;
+    border-radius: 10px;
+    border: 2px solid #6495ed;
+    background-color: #bcd2ee;
+    height: 50px;
+    width: 120px;
+    margin: auto;
+    text-align: center;
+}
+#family p{
+    background-color: #bcd2ee;
+    margin-top: 12px;
+}
